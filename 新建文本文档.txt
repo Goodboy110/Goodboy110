@@ -2,3 +2,8 @@ git config --list  查看配置信息 保存在用户mongoose .gitconfig中
 git log 查看历史提交纪录 
 
 切换分支 要保证当前分支是干净的，如 没有提交的文件在切换分支的时候，会显示出来。。。。。。
+
+modified  被修改
+
+github
+Collaborators: 合作者 邀请其他开发者一起共同开发项目（现在更名为Manage access 选中项目添加和卓着）

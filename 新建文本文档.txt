@@ -1,0 +1,1 @@
+git config --list  查看配置信息 保存在用户mongoose .gitconfig中

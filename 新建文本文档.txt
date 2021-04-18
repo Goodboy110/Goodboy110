@@ -1,1 +1,4 @@
 git config --list  查看配置信息 保存在用户mongoose .gitconfig中
+git log 查看历史提交纪录 
+
+切换分支 要保证当前分支是干净的，如 没有提交的文件在切换分支的时候，会显示出来
